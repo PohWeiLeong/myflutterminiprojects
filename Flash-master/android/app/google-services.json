@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "911078889899",
+    "project_id": "chat-3d912",
+    "storage_bucket": "chat-3d912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911078889899:android:602067d443d761e23e1aee",
+        "android_client_info": {
+          "package_name": "com.shamilla.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911078889899-tk7bispis03hevap4nqvkemhkl83jjpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtK6HQmW9uqaRbqGNqMqMBfv9kNiN4L30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911078889899-tk7bispis03hevap4nqvkemhkl83jjpj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "911078889899-p6cdgrisaaklavho7512vr3oqk7n4en9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shamilla.flash"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
